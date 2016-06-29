@@ -6,8 +6,7 @@ A simple JS extension that draws random graph following mouse movements.
 
 ### Demo 
 
-Find the demo here
-<iframe width="100%" height="300" src="//jsfiddle.net/MrL1605/aLxo3o6c/1/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+Find the demo [here](http://jsfiddle.net/MrL1605/aLxo3o6c/1/embedded/result,js,html,css/light/)
 
 ### How to add
 
