@@ -6,6 +6,7 @@ A simple JS extension that draws random graph following mouse movements.
 
 ### Demo 
 
+Find the demo here
 <iframe width="100%" height="300" src="//jsfiddle.net/MrL1605/aLxo3o6c/1/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 ### How to add
@@ -15,5 +16,13 @@ A simple JS extension that draws random graph following mouse movements.
  - Add jquery to the page for proper size detection.
  - And... Done.
 
-### LICENCE
-[LICENCE](./LICENCE)
+> **Note:** Jquery is only required for setting the size of canvas context 3, 4. If not required set the size manually.
+
+### Customize
+
+ - Change the `createRadius` variable to decide how far the graph should be created after every mouse move.
+ - Change the `maxAllowedRadius` variable to decide the distance after which a node in graph shouls be deleted.
+ - Change the color and line width by changing `context.strokeStyle` and `context.lineWidth`.
+
+### LICENSE
+[LICENSE](./LICENSE)
