@@ -15,7 +15,7 @@ Find the demo [here](http://jsfiddle.net/MrL1605/aLxo3o6c/1/embedded/result,js,h
  - Add jquery to the page for proper size detection.
  - And... Done.
 
-> **Note:** Jquery is only required for setting the size of canvas context 3, 4. If not required set the size manually.
+> **Note:** Jquery is only required for setting the size of canvas context on line #3. If not required set the size manually.
 
 ### Customize
 
