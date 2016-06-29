@@ -2,7 +2,7 @@
 # Random-Graph-JS
 ---
 
-A simple JS extension that draws graph with mouse movements, 
+A simple JS extension that draws random graph following mouse movements.
 
 ### Demo 
 
